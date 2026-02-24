@@ -1,5 +1,5 @@
 # primer_Tm
-primer Tm value calculate,based in python,simulate Snap Gene
+primer Tm value calculate,emulate SnapGene
 
 '''
 # 导入函数，计算文本中的引物Tm，
